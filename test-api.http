@@ -28,7 +28,8 @@ Content-Type: application/json
 
 {
   "name": "Charlie",
-  "age": 22
+  "grade": "98",
+  "email":"charlie@gmail.com"
 }
 
 ###
@@ -39,7 +40,8 @@ Content-Type: application/json
 
 {
   "name": "Alice Updated",
-  "age": 26
+  "grade": "99",
+  "email": "alice@gmail.com"
 }
 
 ###
